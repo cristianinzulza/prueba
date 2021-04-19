@@ -1,0 +1,27 @@
+
+/* Estilo de cajas */
+/* Este estilo se aplica a las 3 cajas */
+#box1, #box2, #box3{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+}
+
+/* Este estilo se aplica solo a la primera caja*/
+#box1 {
+    margin: 20px;
+    border: 2px;
+    padding: 2px;
+}
+
+#box2 {
+    margin: 30px;
+    border: 4px;
+    padding: 4px;
+}
+
+#box3 {
+    margin: 40px;
+    border: 5px;
+    padding: 6px
+}
